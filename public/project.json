@@ -1,0 +1,39 @@
+[
+    {
+        "id": "1000",
+        "name": "LINEAR learning Point",
+        "img": "https://www.pandasecurity.com/it/mediacenter/src/uploads/2020/03/pandasecurity-elearning.jpg",
+        "feture": [
+            "(1) It is front end developed project e-learning with java scripts frameworks react .",
+            "(2) Used rect so that user can easily route one page to another page without reloading.",
+            "(3) Will be helpful for rural people who cannot visit with MBBSdoctors. "
+        ],
+        "live": "https://e-learning-linear.netlify.app/",
+        "gitlink": "https://github.com/bipro-b/project-nine-e-learning"
+    },
+    {
+        "id": "1001",
+        "name": "e-Hospital",
+        "img": "https://www.hamburg.com/image/11873324/16x9/990/557/c50658a31efe91529aa2a0e74aa5a75f/Yd/km1-hospitals-in-hamburg.jpg",
+        "feture": [
+            "(1) It is front end developed project about health care  using react js,firebase Authentication,react bootstrap .",
+            "(2) Redirect is used so that users can easily go back to the private route.",
+            "(3) Will be helpful for rural people who cannot visit with MBBSdoctors. "
+        ],
+        "live": "https://hospital-project-firebase.firebaseapp.com/",
+        "gitlink": "https://github.com/bipro-b/project-ten-e-hospital"
+    },
+    {
+        "id": "1002",
+        "name": "PISTON CAR SHOP",
+        "img": "https://i2-prod.business-live.co.uk/incoming/article17326147.ece/ALTERNATES/s615/0_HBR_BRI_271119-carshop-bristol-opening.jpg",
+        "feture": [
+            "(1) Completed with full stack PISTON CAR STORE  using react js , Matarial UI, Node. Js, Mongodb,express js.",
+            "(2) Admin and users role is different , admin can add new car , delete car, delete order. Users are able to manage his order and can give a review.",
+            "(3) After log in users can get access to buy a car and see his/her dashboard "
+        ],
+        "live": "https://final-project-car.firebaseapp.com/",
+        "gitlink": "https://github.com/bipro-b/project-tweleve-piston-car",
+        "server": "https://github.com/bipro-b/backend-project-tweleve-piston-car"
+    }
+]
