@@ -51,7 +51,8 @@ const About = () => {
                                     <Col><h3>Python</h3></Col>
                                 </Row>
                             </Container>
-
+                            <hr /><h3>Tools and Software</h3> <hr />
+                            <h5> Git, Github, Netlify, Firebase, VisualStudio</h5>
 
                         </div>
                     </div>
