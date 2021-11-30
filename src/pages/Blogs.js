@@ -1,20 +1,14 @@
 import React from 'react';
-
-import Banner from './Banner';
 import Footer from './Footer';
 import Header from './Header';
-import Projects from './Projects';
-
-const Home = () => {
+const Blogs = () => {
     return (
         <div>
             <Header />
-
-            <Banner />
-            <Projects />
+            <h3 style={{ color: 'white', fontSize: '30px', margin: '30px' }}>Will be included soon😊</h3>
             <Footer />
         </div>
     );
 };
 
-export default Home;
+export default Blogs;

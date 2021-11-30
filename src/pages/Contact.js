@@ -20,6 +20,7 @@ const Contact = () => {
     return (
         <div>
             <Header />
+            <div className="mx-auto mt-2" style={{ color: 'white', fontSize: '30px' }}>Contact with me</div>
             <div className="container">
                 <form onSubmit={sendEmail}>
                     <div className="row pt-5 mx-auto">
@@ -36,7 +37,7 @@ const Contact = () => {
                             <textarea className="form-control" id="" cols="30" rows="8" placeholder="Your message" name="message"></textarea>
                         </div>
                         <div className="col-8 pt-3 mx-auto">
-                            <input type="submit" className="btn btn-info mx-auto" style={{ width: '50%' }} value="Send Message"></input>
+                            <input type="submit" className="btn btn-info mx-auto" style={{ width: '75%' }} value="Send Message"></input>
                         </div>
                     </div>
                 </form>

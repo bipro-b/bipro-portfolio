@@ -1,9 +1,10 @@
 
 import React from 'react';
 import { Button, Card, Container } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 
 const Project = ({ project }) => {
-    const { name, img, feture, live, gitlink, server } = project;
+    const { name, img, feture, live, gitlink, server, id } = project;
 
     return (
         <div>
@@ -17,7 +18,10 @@ const Project = ({ project }) => {
                             {feture}
 
                         </Card.Text>
-                        <div className="">
+                        <div>
+                            <Link to={`/project/${id}`}> <button style={{ alignItems: 'center', marginLeft: "40px" }} className="btn btn-primary ms-40px">Details</button></Link>
+                        </div>
+                        <div className="my-2">
                             <a href={live} target="_blank" rel="noreferrer"><Button className="mx-2" variant="success">Live site</Button></a>
                             <a href={gitlink} target="_blank" rel="noreferrer"><Button className="mx-2" variant="dark">Git link</Button></a>
                             {server &&
