@@ -9,7 +9,7 @@ const Contact = () => {
     function sendEmail(e) {
         e.preventDefault();
 
-        emailjs.sendForm('Gmail', 'Message-template', e.target, 'user_8cJafEOxlXs7rNSojphiw')
+        emailjs.sendForm("gmail", "template_awa5tcm", e.target, 'user_8cJafEOxlXs7rNSojphiw')
             .then((result) => {
                 console.log(result.text);
             }, (error) => {
