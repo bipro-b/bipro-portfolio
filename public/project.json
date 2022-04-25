@@ -1,48 +1,28 @@
 [
     {
         "id": "1000",
-        "name": "LINEAR learning Point",
-        "img": "https://i.ibb.co/q7fT6fc/Capture1.png",
-        "img1": "https://i.ibb.co/gRsW4GJ/Capture2.png",
-        "img2": "https://i.ibb.co/x2pTc0f/Capture3.png",
+        "name": "Mukto-cinta Library",
+        "img": "https://www.linkpicture.com/q/Capture_10.png",
+        "img1": "https://www.linkpicture.com/q/Capturelib.png",
+        "img2": "https://www.linkpicture.com/q/Capturelib2.png",
         "feture": [
-            "(1) It is front end developed project e-learning with java scripts frameworks react .",
+            "(1) It is MERN Stack developed project e-learning with java scripts frameworks react .",
             "(2) Used rect so that user can easily route one page to another page without reloading.",
-            "(3) Will be helpful for rural students who dont get good teaching. "
+            "(3) Users can manage his taken course and he will able to give review "
         ],
         "more": [
             "(1) It is front end developed project e-learning with java scripts frameworks react .",
-            "(2) Used rect so that user can easily route one page to another page without reloading.",
+            "(2) Used rect router so that user can easily route one page to another page without reloading.",
             "(3) Will be helpful for rural students who dont get good teaching.  ",
-            "(4) Clinking on enroll now one able to resgister the course",
-            "(5) The details of instructor and teacher also added"
+            "(4) Clinking on Take  one able to resgister the course",
+            "(5) The details of instructor and teacher also adde"
         ],
-        "live": "https://e-learning-linear.netlify.app/",
-        "gitlink": "https://github.com/bipro-b/project-nine-e-learning"
+        "live": "https://authentication-5ca23.firebaseapp.com/",
+        "gitlink": "https://github.com/bipro-b/mukto-cinta-library",
+        "server": "https://github.com/bipro-b/library-server-site"
     },
     {
         "id": "1001",
-        "name": "e-Hospital",
-        "img": "https://thumbs.dreamstime.com/b/group-hospital-doctors-over-health-care-clinic-background-89857953.jpg",
-        "img1": "https://i.ibb.co/NWBjh2h/Capture7.png",
-        "img2": "https://i.ibb.co/HXTtQv9/Capture9.png",
-        "feture": [
-            "(1) It is front end developed project about health care  using react js,firebase Authentication,react bootstrap .",
-            "(2) Redirect is used so that users can easily go back to the private route.",
-            "(3) Will be helpful for rural people who cannot visit with MBBSdoctors. "
-        ],
-        "more": [
-            "(1) It is front end developed project about health care  using react js,firebase Authentication,react bootstrap .",
-            "(2) Redirect is used so that users can easily go back to the private route.",
-            "(3) Will be helpful for rural people who cannot visit with MBBSdoctors. ",
-            "(4) To contact with doctor one have to log in first",
-            "(5) After log in the user redirect to his service"
-        ],
-        "live": "https://hospital-project-firebase.firebaseapp.com/",
-        "gitlink": "https://github.com/bipro-b/project-ten-e-hospital"
-    },
-    {
-        "id": "1002",
         "name": "PISTON CAR SHOP",
         "img": "https://i.ibb.co/cr0XmHS/Capture4.png",
         "img1": "https://i.ibb.co/yNrpLBs/Capture6.png",
@@ -62,5 +42,27 @@
         "live": "https://final-project-car.firebaseapp.com/",
         "gitlink": "https://github.com/bipro-b/project-tweleve-piston-car",
         "server": "https://github.com/bipro-b/backend-project-tweleve-piston-car"
+    },
+    {
+        "id": "1002",
+        "name": "Student Welfare",
+        "img": "https://www.linkpicture.com/q/Capturwele.png",
+        "img1": "https://www.linkpicture.com/q/wel_1.png",
+        "img2": "https://www.linkpicture.com/q/Cwel.png",
+        "feture": [
+            "(1) It is front end developed project about a Association student welfare  using react js,firebase Authentication,react bootstrap .",
+            "(2) Navigate is used so that users can easily go back to the private route.",
+            "(3) The members of the association will be able easily apply and admin can manage all members"
+        ],
+        "more": [
+            "(1) It MERN stack developed project about A association of student welfare  using react js,firebase Authentication,react bootstrap .",
+            "(2) Redirect is used so that users can easily go back to the private route.",
+            "(3) Will be helpful for rural people who cannot visit with MBBSdoctors. ",
+            "(4) Member will able to see his application and to give review",
+            "(5) Filling payment form he will be able add him paid members"
+        ],
+        "live": "https://lakhanda-student-welfare-asso.firebaseapp.com/",
+        "gitlink": "https://github.com/bipro-b/student-welfare-client",
+        "server": "https://github.com/bipro-b/student-welfare-server"
     }
 ]

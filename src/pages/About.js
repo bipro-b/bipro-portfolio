@@ -63,7 +63,7 @@ const About = () => {
                         <div><h2>Under Graduate </h2> <hr />
                             <h4 >CUET ,CSE </h4>
                             <hr /><h3>Recent/Expected passing year</h3><hr />
-                            <p> level-2, Term-2 / February in 2024</p>
+                            <p> level-3, Term-1 / February in 2024</p>
                         </div>
 
                     </div>

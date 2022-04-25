@@ -9,7 +9,7 @@ const Footer = () => {
                 <a href="https://github.com/bipro-b" target="_blank" rel="noreferrer"><i class="fab fa-github"></i></a>
                 <a href="https://www.linkedin.com/in/bipro-barai-419381179/" target="_blank" rel="noreferrer"><i class="fab fa-linkedin"></i></a>
                 <a href="https://www.youtube.com/channel/UChekLTEIdsGpPY3JnC38Udw/featured" target="_blank" rel="noreferrer"><i class="fab fa-youtube"></i></a>
-                <a href="https://web.facebook.com/bipro.barai.5036" target="_blank" rel="noreferrer"><i class="fab fa-facebook"></i></a>
+                <a href="https://web.facebook.com/profile.php?id=100062495514493" target="_blank" rel="noreferrer"><i class="fab fa-facebook"></i></a>
             </div>
         </div>
     );
