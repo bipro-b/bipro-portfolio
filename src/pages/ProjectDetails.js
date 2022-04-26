@@ -81,7 +81,7 @@ const ProjectDetails = () => {
                         <Card.Body>
                             <Card.Title>{projectDetails?.name}</Card.Title>
                             <Card.Text style={{ textAlign: 'left' }}>
-                                {projectDetails?.more}
+                                {projectDetails?.more} <br />
 
                             </Card.Text>
                             <div className="my-2">

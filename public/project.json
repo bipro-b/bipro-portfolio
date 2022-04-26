@@ -6,14 +6,14 @@
         "img1": "https://www.linkpicture.com/q/Capturelib.png",
         "img2": "https://www.linkpicture.com/q/Capturelib2.png",
         "feture": [
-            "(1) It is MERN Stack developed project e-learning with java scripts frameworks react .",
+            "(1) It is MERN Stack developed project Library with java scripts frameworks react .",
             "(2) Used rect so that user can easily route one page to another page without reloading.",
             "(3) Users can manage his taken course and he will able to give review "
         ],
         "more": [
-            "(1) It is front end developed project e-learning with java scripts frameworks react .",
+            "(1) It is front end developed project Library with java scripts frameworks react .",
             "(2) Used rect router so that user can easily route one page to another page without reloading.",
-            "(3) Will be helpful for rural students who dont get good teaching.  ",
+            "(3) Users can manage his taken course and he will able to give review.  ",
             "(4) Clinking on Take  one able to resgister the course",
             "(5) The details of instructor and teacher also adde"
         ],
@@ -57,7 +57,7 @@
         "more": [
             "(1) It MERN stack developed project about A association of student welfare  using react js,firebase Authentication,react bootstrap .",
             "(2) Redirect is used so that users can easily go back to the private route.",
-            "(3) Will be helpful for rural people who cannot visit with MBBSdoctors. ",
+            "(3) Admin and members roles are different admin can add, delete a member. ",
             "(4) Member will able to see his application and to give review",
             "(5) Filling payment form he will be able add him paid members"
         ],
