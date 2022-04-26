@@ -20,7 +20,7 @@ const Banner = () => {
 
                     <button style={{ backgroundColor: '#707a84' }} className="rounded"> <a style={{ textDecoration: 'none', color: 'white' }} href="https://www.linkedin.com/in/bipro-barai-419381179/" target="_blank" rel="noreferrer">Hire me</a></button>
 
-                    <button style={{ backgroundColor: '#707a84' }} className="rounded  m-3"> <a style={{ textDecoration: 'none', color: 'white' }} href="https://drive.google.com/file/d/1PUZgI98UmADXu6kPjMD9EoxtcfT64mJX/view" target="_blank" rel="noreferrer">Resume</a></button>
+                    <button style={{ backgroundColor: '#707a84' }} className="rounded  m-3"> <a style={{ textDecoration: 'none', color: 'white' }} href="https://drive.google.com/file/d/1DdXDTNhS6XVYbihR2Hnl9SME2gPOZff4/view" target="_blank" rel="noreferrer">Resume</a></button>
 
                 </div>
                 <div className="col-lg-6 second-part">
